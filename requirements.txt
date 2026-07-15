@@ -1,0 +1,2 @@
+# Runtime dependencies will be added as each Jarvis module is implemented.
+# The foundation currently uses only the Python standard library.
